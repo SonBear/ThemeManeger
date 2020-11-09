@@ -51,7 +51,7 @@ public class View extends JFrame {
         GridBagConstraints gridBagConstraints;
 
         jPanel1 = new JPanel();
-        jComboBox1 = new JComboBox<>();
+        jComboBox1 = new JComboBox<String>();
         jPanel2 = new JPanel();
         jScrollPane1 = new JScrollPane();
         jTable1 = new JTable();
